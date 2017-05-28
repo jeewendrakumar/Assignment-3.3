@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Personnel>
+    <Employee type="permanent">
+        <Name>Seagull</Name>
+        <Age>34</Age>
+        <Salary>1000000</Salary>
+   </Employee>
+    <Employee type="contract">
+        <Name>Robin</Name>
+        <Age>25</Age>
+        <Salary>1000000</Salary>
+    </Employee>
+    <Employee type="permanent">
+        <Name>Crow</Name>
+        <Age>28</Age>
+        <Salary>1000000</Salary>
+    </Employee>
+</Personnel>
+
